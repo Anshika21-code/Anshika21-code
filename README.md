@@ -15,7 +15,7 @@
 
 ##  About Me
 
-Final-year B.Tech CSE student at VIT Bhopal (GPA: 8.49), graduating 2026.
+Final-year B.Tech CSE student at VIT Bhopal, graduating 2026.
 I build full-stack applications that go beyond UI — structured data models,
 REST APIs, workflow automation, and ML-integrated pipelines.
 
